@@ -1,0 +1,84 @@
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll.config
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.dll
+C:\Users\admin\Desktop\Đồ án\QuanLyThuVien\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll.config
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csprojAssemblyReference.cache
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CopyComplete
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll.config
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csprojAssemblyReference.cache
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CopyComplete
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll.config
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csprojAssemblyReference.cache
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CopyComplete
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll.config
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csprojAssemblyReference.cache
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CopyComplete
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll.config
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csprojAssemblyReference.cache
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CopyComplete
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Duy Khanh\Desktop\Do an CNPM\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll.config
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\QuanLyThuVien.DAL.pdb
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csprojAssemblyReference.cache
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.csproj.CopyComplete
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.dll
+C:\Users\Bravo 15\Desktop\Studies\WinForm (3) (2)\QuanLyThuVien.DAL\obj\Debug\QuanLyThuVien.DAL.pdb

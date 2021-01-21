@@ -1,0 +1,28 @@
+//11-01-2021////////////////////////////////////////////////////////////////////////////////
+--
+//10-01-2021////////////////////////////////////////////////////////////////////////////////
+//back-end's note: ngồi fix đống 3 lớp với cái chỉ nhập số tổn thọ quá T.T
+
+Form Mượn sách:
+✓	Phát hiện lỗi nhập mã đọc giả ko có trong database sẽ hiện lỗi hệ thống
+
+
+
+//09-01-2021////////////////////////////////////////////////////////////////////////////////
+Form đọc giả:
+✓	btn sửa: khi để trống các txt cần xuất thông báo lỗi tiếng việt
+✓	txt SĐT và CMND: chỉ có thể nhập chữ số mới làm thẻ thành công, nhập chữ sẽ xuất lỗi	-t ko nhận chữ nó nhập vào luôn :))
+	
+Form Sách:
+✓	btn thêm sách, sửa sách: khi không nhập thiếu dữ kiện trong txt Phải xuất lỗi	
+✓	btn thêm sách: phải bắt txt năm xuất bản phải nhập chữ số			
+✓	btn sửa sách: sửa thành công phải xuất thông báo				
+	sinh mã sách sinh ngẫu nhiên hả :3 số hơi bự					-số nhỏ quá sẽ sinh nhiều vấn đề + chướng mắt
+	nếu đã không cho nhập mã thì nên xoá cái txt mã đi				-cái đó dùng để chứa dữ kiện chứ ko đùa đc :))
+	
+Form mượn sách:
+✓	btn mượn sách: khi nhập thiếu giữ liệu phải xuất thông báo ra màn		
+	ngày mượn phải <= ngày trả ( nếu làm được càng tốt ) :V				
+	1 người chỉ có thể mượn tối đa 3 cuốn sách					-mai mò
+✓	số lượng sách = 0 thì không mượn được, đkm t mượn được âm cả sách luôn VKL :V	
+✓	t mượn 1 cuốn mà mấy cuốn kia số lượng nhảy số luôn mà				-source code bị chậm 1 phiên bản. mần gì căng :))
